@@ -21,8 +21,7 @@ The doctor has a login to manage his appointment slots, patient appointments, me
 <li>Manage staffs</li>
 <li>Leave details</li>
 <li>Salary payment</li>
+<li>Email Templates</li>
 </ul>
 <b>More details and download link:</b><br>
 https://www.phpscriptsonline.com/product/doctor-office-management-software/
-
-Email Templates
